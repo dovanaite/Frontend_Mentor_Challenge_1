@@ -46,9 +46,9 @@ I am planning on practising more on repsonsive design with different screens as 
 
 ### Useful resources
 
-- [Example resource 1](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This  guide helped me with creating Flexbox layout
+- A Complete Guide to Flexbox (https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This  guide helped me with creating Flexbox layout
 
 
 ## Author
 
-- GitHub - [Add your name here](https://github.com/dovanaite)
+- GitHub - dovanaite (https://github.com/dovanaite)
