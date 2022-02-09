@@ -21,7 +21,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
+<<<<<<< HEAD
 - Solution URL: [Add solution URL here](https://github.com/dovanaite/Frontend_Mentor_Challenge_1)
+=======
+- Solution URL: (https://github.com/dovanaite/Frontend_Mentor_Challenge_1)
+
+>>>>>>> 8b8d00069240ec3b6d5f69f4726485e47bbb1afa
 
 ## My process
 
@@ -45,9 +50,9 @@ I am planning on practising more on repsonsive design with different screens as 
 
 ### Useful resources
 
-- [Example resource 1](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This  guide helped me with creating Flexbox layout
+- A Complete Guide to Flexbox (https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This  guide helped me with creating Flexbox layout
 
 
 ## Author
 
-- GitHub - [Add your name here](https://github.com/dovanaite)
+- GitHub - dovanaite (https://github.com/dovanaite)
