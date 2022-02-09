@@ -21,12 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-<<<<<<< HEAD
-- Solution URL: [Add solution URL here](https://github.com/dovanaite/Frontend_Mentor_Challenge_1)
-=======
 - Solution URL: (https://github.com/dovanaite/Frontend_Mentor_Challenge_1)
 
->>>>>>> 8b8d00069240ec3b6d5f69f4726485e47bbb1afa
 
 ## My process
 
